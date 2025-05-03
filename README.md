@@ -3,7 +3,7 @@
 A professionally designed **responsive café restaurant website** built using **HTML, CSS, Bootstrap 5, and JavaScript**.
 
 ## 🔗 Live Preview
-[Click Here to View the Website]([#](https://hmtdev0.github.io/cafe-restaurant/)) <!-- Replace with live link if hosted -->
+[Click Here to View the Website](https://hmtdev0.github.io/cafe-restaurant/)](#) <!-- Replace with live link if hosted -->
 
 ---
 
