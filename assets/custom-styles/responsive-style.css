@@ -130,6 +130,14 @@
     .newsletter-section .form-group input {
         height: 3.2857rem;
     }
+
+
+
+    /* footer section */
+
+    .footer-section p a {
+        font-size: .75rem;
+    }
 }
 
 
@@ -187,8 +195,10 @@
         padding: 0.3rem 0.5rem;
     }
 
-    .footer-section a{
+    .footer-section a {
         padding: 0 0.4rem;
     }
+
+
 
 }
