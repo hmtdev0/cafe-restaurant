@@ -9,7 +9,7 @@ A professionally designed **responsive café restaurant website** built using **
 
 ## 🖼️ Preview
 
-![Website Preview](./path-to-your-image.png) <!-- Replace with actual image path -->
+![Website Preview](./assets/images/cafe-restaurant-banner.png) <!-- Replace with actual image path -->
 
 ---
 
